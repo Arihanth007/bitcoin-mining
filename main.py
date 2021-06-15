@@ -1,7 +1,3 @@
-
-from typing import ItemsView
-
-
 class MempoolTransaction():
 
     def __init__(self) -> None:

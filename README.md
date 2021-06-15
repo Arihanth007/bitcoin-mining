@@ -21,3 +21,7 @@ Since we are considering ratios as the metric that defines which one to pick and
 ## Why this algorithm?
 
 Inspite of the shortcoming, the differnce between the best choice and the output of this code wouldn't be very significant. The naive method would be to consider every subset whose total weight is within the threshold. But this would be a O(2^n) operation where n is the number of transactions.
+
+## Running the code
+
+`python3 main.py`
